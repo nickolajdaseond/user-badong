@@ -8,25 +8,6 @@
     {"username":"username 16","password":27,"id":"16"},{"username":"username 17","password":34,"id":"17"},{"username":"username 18","password":87,"id":"18"},
     {"username":"username 19","password":81,"id":"19"},{"username":"username 20","password":33,"id":"20"},{"username":"username 21","password":29,"id":"21"},
     {"username":"username 22","password":32,"id":"22"},{"username":"username 23","password":93,"id":"23"},{"username":"username 24","password":52,"id":"24"},
-    {"username":"username 25","password":3,"id":"25"},{"username":"username 26","password":21,"id":"26"},{"username":"username 27","password":99,"id":"27"},
-    {"username":"username 28","password":47,"id":"28"},{"username":"username 29","password":34,"id":"29"},{"username":"username 30","password":92,"id":"30"},
-    {"username":"username 31","password":56,"id":"31"},{"username":"username 32","password":5,"id":"32"},{"username":"username 33","password":96,"id":"33"},
-    {"username":"username 34","password":32,"id":"34"},{"username":"username 35","password":56,"id":"35"},{"username":"username 36","password":34,"id":"36"},
-    {"username":"username 37","password":10,"id":"37"},{"username":"username 38","password":38,"id":"38"},{"username":"username 39","password":8,"id":"39"},
-    {"username":"username 40","password":57,"id":"40"},{"username":"username 41","password":56,"id":"41"},{"username":"username 42","password":10,"id":"42"},
-    {"username":"username 43","password":89,"id":"43"},{"username":"username 44","password":35,"id":"44"},{"username":"username 45","password":71,"id":"45"},
-    {"username":"username 46","password":46,"id":"46"},{"username":"username 47","password":59,"id":"47"},{"username":"username 48","password":24,"id":"48"},
-    {"username":"username 49","password":61,"id":"49"},{"username":"username 50","password":98,"id":"50"},{"username":"username 51","password":55,"id":"51"},
-    {"username":"username 52","password":32,"id":"52"},{"username":"username 53","password":55,"id":"53"},{"username":"username 54","password":38,"id":"54"},
-    {"username":"username 55","password":61,"id":"55"},{"username":"username 56","password":78,"id":"56"},{"username":"username 57","password":71,"id":"57"},
-    {"username":"username 58","password":39,"id":"58"},{"username":"username 59","password":71,"id":"59"},{"username":"username 60","password":88,"id":"60"},
-    {"username":"username 61","password":37,"id":"61"},{"username":"username 62","password":39,"id":"62"},{"username":"username 63","password":85,"id":"63"},
-    {"username":"username 64","password":55,"id":"64"},{"username":"username 65","password":2,"id":"65"},{"username":"username 66","password":64,"id":"66"},
-    {"username":"username 67","password":21,"id":"67"},{"username":"username 68","password":46,"id":"68"},{"username":"username 69","password":70,"id":"69"},
-    {"username":"username 70","password":68,"id":"70"},{"username":"username 71","password":22,"id":"71"},{"username":"username 72","password":56,"id":"72"},
-    {"username":"username 73","password":73,"id":"73"},{"username":"username 74","password":5,"id":"74"},{"username":"username 75","password":22,"id":"75"},
-    {"username":"username 76","password":59,"id":"76"},
-    {"username":"username 77","password":60,"id":"77"},{"username":"username 78","password":6,"id":"78"},{"username":"username 79","password":59,"id":"79"},
-    {"username":"username 80","password":74,"id":"80"}
+    {"username":"username 25","password":3,"id":"25"}
   ]
 }
