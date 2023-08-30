@@ -1,8 +1,8 @@
 {
   "user": [
-    {"username":"username 1","password":86,"id":"1"},{"username":"username 2","password":73,"id":"2"},{"username":"username 3","password":58,"id":"3"},
-    {"username":"username 4","password":27,"id":"4"},{"username":"username 5","password":35,"id":"5"},{"username":"username 6","password":77,"id":"6"},
-    {"username":"username 7","password":69,"id":"7"},{"username":"username 8","password":9,"id":"8"},{"username":"username 9","password":73,"id":"9"},
-    {"username":"username 10","password":60,"id":"10"}
+    {"username":"username 1","password":"86","id":"1"},{"username":"username 2","password":"73","id":"2"},{"username":"username 3","password":"58","id":"3"},
+    {"username":"username 4","password":"27","id":"4"},{"username":"username 5","password":"35","id":"5"},{"username":"username 6","password":"77","id":"6"},
+    {"username":"username 7","password":"69","id":"7"},{"username":"username 8","password":"9","id":"8"},{"username":"username 9","password":"73","id":"9"},
+    {"username":"username 10","password":"60","id":"10"}
   ]
 }
